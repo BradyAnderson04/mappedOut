@@ -1,0 +1,15 @@
+Things I need to do:
+    1.Event data getter
+    2.Curate proper messaging
+    3.Connect to server - heroku or something else??
+    4.Sending messages at a certain time
+    5.Logging usage
+    6.Sending messages users whatsApp -> User data (email, whatsApp number, name, event type preference)
+
+Data sources:
+    1.Eventbrite
+    2.Battlefy
+    3.Gamersaloon.com
+    3.Meetup -> look for online events
+
+Scrape or api reference to get event data -> prob store in a db or csv file
